@@ -1,2 +1,2 @@
 # first_project
-ya_practicum
+## Тестовый репозиторий для работы с GitHub
